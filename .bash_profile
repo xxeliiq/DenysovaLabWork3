@@ -1,0 +1,5 @@
+alias ll='ls -alS'
+alias  запліднити='mkdir'
+alias  нагодувати='NUL'
+alias  відправити='rm'
+alias  оглянути='less'
